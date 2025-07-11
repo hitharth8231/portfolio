@@ -1,0 +1,35 @@
+# Node modules (VERY important)
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local IDE config (optional)
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# Cache
+.cache/
+*.log
+
+# MacOS trash
+*.swp
+
+# Optional: if using Linux or Mac
+*.lock
+
+# Windows junk files
+ehthumbs.db
+Desktop.ini

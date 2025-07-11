@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-peach text-charcoal;
+  background-image: url('/pattern.svg');
+  background-repeat: repeat;
+  background-size: contain;
+}
+
+
+code, pre {
+  font-family: 'Fira Code', monospace;
+}
